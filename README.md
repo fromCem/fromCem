@@ -1,4 +1,5 @@
 <img src="https://tenor.com/tr/view/laz-ziya-kurtlar-vadisi-vadi-smile-nod-gif-17724769" align="right" width="300">
+<div class="tenor-gif-embed" data-postid="17724769" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/laz-ziya-kurtlar-vadisi-vadi-smile-nod-gif-17724769">Laz Ziya Kurtlar Vadisi GIF</a>from <a href="https://tenor.com/search/laz+ziya-gifs">Laz Ziya GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ### Hi there, I'm Cem.
 ## Jr. Front-End Developer
 <font color="white"> Coffee ☕ & < code /></font>
