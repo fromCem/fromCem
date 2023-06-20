@@ -1,5 +1,4 @@
-<img src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif" align="right" width="300">
-
+<img src="https://tenor.com/tr/view/laz-ziya-kurtlar-vadisi-vadi-smile-nod-gif-17724769" align="right" width="300">
 ### Hi there, I'm Cem.
 ## Jr. Front-End Developer
 <font color="white"> Coffee ☕ & < code /></font>
